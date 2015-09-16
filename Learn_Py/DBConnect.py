@@ -1,6 +1,6 @@
 import pymssql
 
-conn = pymssql.connect(host='unicorn3', user='sa', password='Passw0rd', database='df1')
+
 
 cur = conn.cursor()
 
