@@ -30,7 +30,7 @@ tradeDate1 =  tradeDate[-10:]
 indexValue1 = float(indexValue.replace(".","dot").replace(",","comma").replace("dot","").replace("comma","."))            
 
 
-conn = pymssql.connect(host='unicorn3', user='sa', password='Passw0rd', database='df1')
+conn = pymssql.connect(host='unicorn3', user='', password='', database='')
 
 cur = conn.cursor()
 
