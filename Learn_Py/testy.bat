@@ -1,0 +1,1 @@
+C:\Users\rmixj\AppData\Local\Enthought\Canopy\User\Scripts\python.exe D:\Dropbox\Ubuntu\Python\compete_email\compete_email.py
