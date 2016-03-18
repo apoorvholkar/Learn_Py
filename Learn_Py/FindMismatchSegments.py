@@ -6,8 +6,8 @@ econList = range(110)
 
 for econID in econList:
     try:
-        filePath1 = 'E:\\ParallelU4_Oct\\ProductionData\\DTD\\step1\\' + str(econID) 
-        filePath2 = 'E:\\ParallelU4_Oct\\ProductionData\\DTD\\step2\\' + str(econID)
+        filePath1 = '\\7VR7G2S\ParallelU4_Oct\ProductionData\DTD\step1' + str(econID) 
+        filePath2 = "\\7VR7G2S\ParallelU4_Oct\ProductionData\DTD\step2" + str(econID)
         #filePath1 = 'X:\\ProductionData\\DTD\\step1\\' + str(econID) 
         #filePath2 = 'X:\\ProductionData\\DTD\\step2\\' + str(econID)
         
