@@ -9,3 +9,5 @@ import uuid
 
 
 setup(console=['MONEX.py'])
+
+
